@@ -1,4 +1,4 @@
-# PrimeCustomerAndRegionInsights
+# Customers in different Regions
 This repository consists of different analyst projects that involves Data Analytics, Data Analysis and Business Intelligence that will mainly focus on Microsoft Excel.
 
 In this project I created a data model to view the relatoinships for the tables within the diagram, along with creating 2 seperate Pivot Tables to gain insights from the different tables. With this data model I was able to obtain the insights that I was looking for.
