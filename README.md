@@ -5,8 +5,8 @@ In this project I created a data model to view the relatoinships for the tables 
 
 ![DataModel](https://user-images.githubusercontent.com/72324462/236376299-c212bed8-7760-45f9-8a16-c8da2ec9a066.png)
 
-By joining the tables or connecting relationships with the appropriate columns for each table I was able to view data in a way that was easy for me. 
+By joining the tables or connecting relationships with the appropriate columns for each table, I was able to view data in a way that was easy for me to understand and answer my questions. 
 
-Prime Customers: In this project, I wanted to see which region had the most calls and orders based on the customers having a prime membership or not. The insights that I have gained were majority of the calls and orders were from the South Atlantic Region who were prime members and also did not have a prime membership. 
+Prime Customers: In this project, I wanted to see which region had the most calls and orders based on the customers having a prime membership or not. The insights that I have gained were that, majority of the calls and orders were from the South Atlantic Region who were prime members and also did not have a prime membership. 
 
 
