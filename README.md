@@ -7,6 +7,7 @@ In this project I created a data model to view the relatoinships for the tables 
 
 By joining the tables or connecting relationships with the appropriate columns for each table, I was able to view data in a way that was easy for me to understand and answer my questions. 
 
-Prime Customers: In this project, I wanted to see which region had the most calls and orders based on the customers having a prime membership or not. The insights that I have gained were that, majority of the calls and orders were from the South Atlantic Region who were prime members and also did not have a prime membership. 
+Questions for the Prime Customers:
+Q1: 
 
 
