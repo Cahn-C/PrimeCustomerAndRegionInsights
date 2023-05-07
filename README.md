@@ -15,8 +15,8 @@ Q4: Can the highest number of calls have the lowest number of ordes? **In this c
 
 Questions for orders processed in a specific region:<br>
 
-Q1: Which year had the highest average call per minute for all regoins?
-Q2: Which year did South Atlantic meet or exceed their average days to process an order?
+Q1: Which year had the highest average call per minute for all regoins?<br><br>
+Q2: Which year did South Atlantic meet or exceed their average days to process an order?<br><br>
 Q3: 
 
 
