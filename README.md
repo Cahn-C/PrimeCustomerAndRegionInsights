@@ -8,6 +8,9 @@ In this project I created a data model to view the relatoinships for the tables 
 By joining the tables or connecting relationships with the appropriate columns for each table, I was able to view data in a way that was easy for me to understand and answer my questions. 
 
 Questions for the Prime Customers:
-Q1: 
+Q1: Which region has the most calls in total?
+Q2: Which region has the most calls from customers that have the Prime Membership?
+Q3: Which region has the most calls from customers that do not have the Prime Membership?
+Q4: Can the highest number of calls have the lowest number of ordes?
 
 
