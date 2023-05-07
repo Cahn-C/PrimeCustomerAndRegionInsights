@@ -11,6 +11,12 @@ Questions for the Prime Customers:<br>
 Q1: Which region has the most calls in total? **South Atlantic**<br><br>
 Q2: Which region has the most calls from customers that have the Prime Membership? **South Atlantic**<br><br>
 Q3: Which region has the least amount of calls from customers that do not have the Prime Membership? **East North Central**<br><br> 
-Q4: Can the highest number of calls have the lowest number of ordes? **In this cse no, if the nuber of calls for one region is high, then the number of orders will be high as well.**
+Q4: Can the highest number of calls have the lowest number of ordes? **In this cse no, if the nuber of calls for one region is high, then the number of orders will be high as well.** <br><br><br>
+
+Questions for orders processed in a specific region:<br>
+
+Q1: Which year had the highest average call per minute for all regoins?
+Q2: Which year did South Atlantic meet or exceed their average days to process an order?
+Q3: 
 
 
