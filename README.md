@@ -17,7 +17,7 @@ Questions for orders processed in a specific region:<br>
 
 Q1: Which year had the highest average call per minute for all regoins?<br><br>
 Q2: Which year did South Atlantic meet or exceed their average days to process an order?<br><br>
-Q3: What was Mid-Atlantic best year on processing orders?
+Q3: What was Mid-Atlantic best year on processing orders?<br><br>
 Q4: In which quarter did Mid-Atlantic perform at its best in 2018?
 
 
